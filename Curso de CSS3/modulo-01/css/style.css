@@ -1,0 +1,45 @@
+*{box-sizing: border-box;}
+#conteudo{background-color: #FF0000FF; width: 300px;padding: 20px;box-shadow: 10px 10px 5px#7FFF8EFF}
+
+/**** AULA 06 E 09 TEXT
+p {color:#E51938FF; text-align: justify; text-indent: 20px;line-height: 25px; direction: rtl; letter-spacing: 2px; word-spacing: 3px;}
+h1{text-align: left; text-decoration: underline; text-shadow: 3px 3px 4px #BD41BBFF}
+h2{text-align: right; text-decoration: overline;}
+h3{text-align: center; text-decoration: line-through;}
+*/
+
+/**** aula 07 Margin / Padding
+#exemplo {background-color: #00FF21FF; color: #FFFFFFFF; width: 500px; padding: 10px 20px 30px 30px;} 
+/*Padding individual rodando do topo até a esquerda. (topo, direita, baixo e esquerda)*/
+/*#exemplo2{background-color: #FF008EFF; color: #FFFFFFFF; width: 500px; margin-top: 20px; margin-left: 20px;}
+*/
+
+/**** AULA 06 Dimensão
+#conteudo {min-width: 500px; max-width: 7
+0%; min-height: 100px; background-color: #00FF90FF; color: #FFFFFFFF; padding: 20px;}
+*/
+
+/****  AULA 05 Class e ID
+.texto-principal {color:red; text-align: center;}
+.fundo-principal {background-color: #00FF2180; padding: 20px;}
+#conteudo{background-color: #7F92FFFF ; padding: 20px; color: #00FF21FF}
+*/
+
+/**** AULA 04 Seletores
+h1,h2,p{color:#FF0000FF; text-align:center;}
+*/
+
+/***** AULA 02 E 03
+*{margin:0; padding:0;}
+
+h1 {color:blue;font-size:50px;}
+p{color:green;font-size:12px;}
+
+input[type="text"]{width:200px; background-color:#ccc; height:40px; border:none;}
+input[name="email"]{width:200px; background-color:#ccc; height:40px; border:none;}
+input[type="submit"]{width:50px; background-color:green; height:40px; border:none; cursor:pointer; color:#fff;}
+*/
+
+/* AULA 01 Aplicando CSS e Sintaxe
+h1{color:blue; font-size:60px; font-family:tahoma;}
+*/

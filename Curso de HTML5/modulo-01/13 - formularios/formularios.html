@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+<title>Formulários</title>
+<meta charset = "utf-8">
+</head>
+<body>
+
+<form id = "form-cadastro" method = "POST" enctype = "application/x-www-form-urlencoded" name = "formulario-cadastro">
+Email: <br>
+<input type = "email" name = "email" required>
+<input type = "submit" name = "cadastrar" formenctype = "application/x-www-form-urlencoded" formmethod = "GET" formaction = "cadastrar.php" value = "Cadastrar">
+<input type = "submit" name = "enviar-por-email" formtarget = "_blank" formenctype = "application/x-www-form-urlencoded" formmethod = "POST" formaction = "enviar-email.php" value = "Enviar por email" formnovalidate>
+</form>
+<form action = "cadastro.php" method = "POST">
+
+<fieldset>
+<legend>Informações pessoais </legend>
+Nome: <br>
+<input type = "text" name = "nome" required autofocus maxlength = "5"placeholder = "nome"><br>
+Senha: <br>
+
+<input type = "password" name = "senha" required placeholder= "senha"><br>
+Email: <br>
+<input type = "email" name = "email" required autocomplete = "on" placeholder = "email@email.com"><br>
+
+Imagem:<br><br>
+<input type = "file" name = "imagem" ><br>
+
+Data:<br>
+<input type = "date" name = "data" min = "2000-12-31" max = "2020-12-31"><br><br>
+
+Hora:<br>
+<input type = "time" name = "hora"><br><br>
+
+Mês e ano:<br>
+<input type = "month" name = "mes-ano" ><br><br>
+
+Semana: <br>
+<input type = "week" name = "semana"><br><br>
+
+Data e hora:<br>
+<input type = "datetime-local" name = "data-e-hora"><br><br>
+
+Mensagem:<br>
+<textarea name = "mensagem" rows = 5" cols = "30" spellcheck = "false"></textarea><br><br>
+
+<button type = "button"> Cliquee-me</button><br><br>
+Escolha seu Veiculo: <br>
+<select name = "Veiculo">
+<optgroup label = "Carros">
+	<option value = "camaro"> Camaro </option>
+	<option value = "hilux" selected> Hilux </option>
+</optgroup>
+<optgroup label = "Motos">
+	<option value = "pop100"> Pop 100 </option>
+	<option value = "zig50"> Zig 50 </option>
+</optgroup>
+	</select><br>
+	
+Escolha seu curso: <br>
+<input name = "cursos" list = "lista-cursos">
+	<datalist id = "lista-cursos">
+		<option value = "HTML5">
+		<option value = "CSS3">
+		<option value = "PHP">
+	</datalist>
+<br><br>
+
+<input type = "hidden" = name = "id"><br>
+
+URL:
+<input type = "url" = name = "url"><br><br>
+
+Search:<br>
+<input type = "search" name = "pesquisa"><br><br>
+
+Telefone:<br>
+<input type = "tel" name = "telefone"><br><br>
+
+Time: <br>
+<input type = "radio" name = "time" value  = "Sport" checked>Sport Recife<br>
+<input type = "radio" name = "time" value  = "Santa">Santa Cruz<br>
+<input type = "radio" name = "time" value  = "Naltico">Naltico<br>
+<br>
+Cores: <br>
+<input type = "checkbox" name = "cores" value = "verde"> Verde<br>
+<input type = "checkbox" name = "cores" value = "azul"> Azul<br>
+<input type = "checkbox" name = "cores" value = "preto" checked> Preto<br>
+
+Quantidade:<br>
+<input type = "number" name = "quantidade" min = "0" max = "500" step ="10"><br>
+
+<input type = "range" name = "quantidade"><br>
+Cor: <br>
+<input type = "color" name = "cor"> <br><br>
+
+
+<input type = "submit" name = "btn-enviar" value = "Enviar">
+</fieldset>
+</form>
+</body>
+</html>
