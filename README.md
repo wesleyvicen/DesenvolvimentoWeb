@@ -15,9 +15,9 @@ Seja muito bem vindo ao meu repositio de estudos de WEB!<br> neste repositorio i
   - MySQL
   - MongoDB
 <h3>Cursos em estudo atualmente</h3>
-Um deles já finalizado, sendo o de <a href = "https://www.dropbox.com/s/r3xmr3neha1myom/Certificado%20HTML5%20Wesley.pdf?dl=0">HTML5</a>
+Dois deles já finalizado, sendo o de <a href = "https://www.dropbox.com/s/r3xmr3neha1myom/Certificado%20HTML5%20Wesley.pdf">HTML5</a>
+e o de <a href = "https://www.dropbox.com/s/v0fq7k8dmieggf0/Certificado%20CSS3%20Wesley.pdf">CSS3</a>
 <img src = "https://i.imgur.com/K0FPF9G.png"> </img>
-O de CSS3 ainda está a caminho, em breve finalizado.<br>
 Também estou matriculado no curso: <a href = "https://www.udemy.com/curso-web"> Curso Web Moderno com JavaScript!</a>
 <img src = "https://i.imgur.com/dI9nHKm.jpg"> </img> este é bem mais completo e com desenvolvimento moderno
 <h4>Material de estudo</h4>
