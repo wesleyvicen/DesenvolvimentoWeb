@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fa-",
+				"fa-lg"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"BORDER",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"HEA",
+				"HEADER\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"noti",
+				"Noticia"
+			],
+			[
+				"no",
+				"noticia1"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"repe",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"transi",
+				"transition-delay\tproperty"
+			],
+			[
+				"tran",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"ti",
+				"initial\tfont-family"
+			],
+			[
+				"a",
+				"animdir\tanimation-direction: ${1:normal};"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"u",
+				"unset\ttext-decoration"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"lorem",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"fff",
+				"FFFFFFFF"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso HTML5 & CSS3 na Prática/nodeshop/css/style.css",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso HTML5 & CSS3 na Prática/nodeshop/index.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/border-outline.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/transition.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/target.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/currentcolor.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/index.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/css/style.css",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/background.html",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/css/transition.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de JavaScript/organizacao.js",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/float.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/fonts.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/position.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/colors-gradients.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/border-radius.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/overflow-opacity.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de HTML5/modulo-01/08 - Div-span/div-span.html",
+		"/C/Users/Wesley/Desktop/sort.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/text.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/box-sizing-e-box-shadow.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/margin-padding.html",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/C/Users/Wesley/Desktop/teste2.js",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/class-id.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/dimensao.html",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Wesley/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/class-id.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/seletores.html",
+		"/C/Users/Wesley/Dropbox/Cursos Aleatorios/Curso de CSS3/modulo-01/01-aplicandocssesintaxe.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/modulo-01/class-id.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/modulo-01/01-aplicandocssesintaxe.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/css/teste.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/modulo-01/seletores.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/modulo-01/css/style.css",
+		"/C/Users/Wesley/Dropbox/cursocss3/nada.css",
+		"/C/Users/Wesley/Dropbox/cursocss3/teste.html",
+		"/C/Users/Wesley/Dropbox/cursocss3/teste"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
