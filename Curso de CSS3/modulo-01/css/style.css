@@ -1,5 +1,55 @@
+body{background-image: url(../img/bg.jpg); background-repeat: repeat-x;}
+
+/***AULA 21
+#exemplo{width: 200px; height: 200px; background-color: #FF0000FF; transition: all 2s linear;}
+#exemplo:hover {width: 350px; height: 350px; background-color: #B200FFFF;}
+*/
+
+/***
+#exemplo{border-bottom: solid 5px #DC2B22FF; outline: dotted 5px #57CA34FF;}*/
+
+/****AULA 19
+#conteudo{width: 600px;height: 1200px;background-color: #E62518FF; position: relative;}
+#texto{width: 500px;background-color: #41CF2FFF;position: fixed;left:0;top:40px;}
+*/
+
+/****AULA 18
+#base{background-color: #62DC22FF; width: 600px; height: 600px;}
+#esquerda{background-color: #EF0F35FF; width: 300px; height: 300px; float: left;}
+#direita{background: #387EC6FF; width: 300px; height: 300px;float: right;}
+*/
+
+/****AULA 17
+#cores {width: 200px; height: 200px;background: radial-gradient(red, green);}
+*/
+
+/****AULA 13 e 14
+*{font-size: 100%;}
+@font-face{
+	font-family: casual-caps;
+	src: url(fonts/CasualCaps.woff);
+}
+@font-face{
+	font-family: sand-brush;
+	src: url(fonts/SandbrushDemo.woff);
+}
+p{font-family: sand-brush, casual-caps; font-size: 2.5em;} /* 40px (alvo) / 16px(contexto) = 2.5em
+h1{font-family: casual-caps, sand-brush; font-size: 2.5em;}
+*/
+
+/****Aula 12
+#bloco {background-color: green; width: 300px; height: 150px; border-radius: 20px 50px 100px 200px;}
+*/
+
+/****AULA 11
+#conteudo{background-color: #D7272DFF; width: 300px; height: 50px; overflow: auto;}
+#conteudo p {opacity: 0.9s;}
+*/
+
+/****Aula 10
 *{box-sizing: border-box;}
 #conteudo{background-color: #FF0000FF; width: 300px;padding: 20px;box-shadow: 10px 10px 5px#7FFF8EFF}
+*/
 
 /**** AULA 06 E 09 TEXT
 p {color:#E51938FF; text-align: justify; text-indent: 20px;line-height: 25px; direction: rtl; letter-spacing: 2px; word-spacing: 3px;}
