@@ -1,4 +1,4 @@
 console.log(typeof Object)
 
-class produto {}
+class produto { }
 console.log(typeof produto)
