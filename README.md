@@ -21,4 +21,4 @@ e o de <a href = "https://www.dropbox.com/s/v0fq7k8dmieggf0/Certificado%20CSS3%2
 Também estou matriculado no curso: <a href = "https://www.udemy.com/curso-web"> Curso Web Moderno com JavaScript!</a>
 <img src = "https://i.imgur.com/dI9nHKm.jpg"> </img> este é bem mais completo e com desenvolvimento moderno
 <h4>Material de estudo</h4>
-Sublime Text 3 - Google Chrome
+Brackets - Google Chrome
